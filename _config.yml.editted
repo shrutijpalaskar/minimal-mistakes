@@ -2,9 +2,8 @@
 
 title:            
 locale:           en_US
-url: https://satwikkottur.github.io
+url: https://shrutijpalaskar.github.io
 # Jekyll configuration
-theme: minimal-mistakes-jekyll
 
 permalink:   /:categories/:title/
 markdown:    kramdown
@@ -25,26 +24,27 @@ kramdown:
 
 # Site owner
 owner:
-  name: Satwik Kottur
+  name: Shruti Palaskar
   avatar: bio-photo-2.jpg
   position: Graduate Student
   school: Carnegie Mellon University
   place: Pittsburgh, PA.
-  bio: "Graduate student<br/>ECE Department&#13;&#10;Carnegie Mellon University&#13;&#10;Pittsburgh, PA"
-  email: satwik27@gmail.com
+  bio: "Graduate student<br/>Language Technologies Institute, School of Computer Science&#13;&#10;Carnegie Mellon University&#13;&#10;Pittsburgh, PA"
+  email: spalaska@cs.cmu.edu
   disqus-shortname:
-  twitter: #username
-  facebook: satwik27 #username
+  twitter: sjpal94 #username
+  facebook:  #username
   google:
-    plus: 114354609186386046762 #username
+      scholar: https://scholar.google.com/citations?user=7bun32IAAAAJ&hl=en&oi=ao
+    plus: #username
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: satwikkottur
+  github: shrutijpalaskar
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: satwik-kottur-6898b634 #username
+  linkedin: shrutipalaskar #username
   xing: #username
   instagram: #username
   lastfm: #username
@@ -58,6 +58,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+  
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
