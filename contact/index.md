@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-tags: [satwik, kottur, contact, graduate, cmu]
+tags: [shruti, palaskar, contact, graduate, cmu]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---

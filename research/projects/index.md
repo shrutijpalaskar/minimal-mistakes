@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Descriptions
-tags: [research, satwik, kottur, cmu, graduate, iitb]
+tags: [research, shruti, palaskar, cmu, graduate, pict]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
