@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-tags: [satwik, kottur, home, cmu, computer vision, machine learning, natural language processing, graduate]
+tags: [shruti, palaskar, home, cmu, speech recognition, machine learning, natural language processing, graduate, carnegie mellon]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
