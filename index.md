@@ -8,17 +8,9 @@ comments: false
 
 Hi!
 
-I am a first year PhD student at the [Language Technologies Institute](http://www.lti.cs.cmu.edu/) of the School of Computer Science at [Carnegie Mellon University](http://www.cmu.edu/). My research interests lie in the areas of multimodal machine learning, speech recognition and natural language processing. I am fortunate to be advised by [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html).
+I am a first year PhD student at the [Language Technologies Institute](http://www.lti.cs.cmu.edu/) of the School of Computer Science at [Carnegie Mellon University](http://www.cmu.edu/). My research interests lie in the areas of multimodal machine learning, speech recognition and natural language generation. I am fortunate to be advised by [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html).
 
-My long-term research goal is to enable machines to learn from multiple modalities of data like text, audio, video, semantics, and draw inferences and make decisions using those, as humans naturally do.
-Currently, I am working on building deep learning models for speech recognition, video understanding and dialog summarization from multimodal data like open-domain videos from YouTube, the [How2 dataset](https://github.com/srvk/how2-dataset), (containing audio, video, text, summary, and topics) or doctor-patient dialogs (containing audio, text, and semantics).
-
-Prior to starting my PhD, I received my Masters in Language Technologies degree from LTI, CMU. During my masters, I spent two wonderful summers as part of the Frederick Jelinek Summer Workshops [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/) working on multimodal learning: I worked with [Prof. Lucia Specia](https://staffwww.dcs.shef.ac.uk/people/L.Specia/) and [Prof. Raman Arora](http://www.cs.jhu.edu/~raman/Home.html) on the [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction/) in 2018 and with [Prof. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/) and [Prof. Odette Scharenborg](https://scholar.google.nl/citations?2user=hyz2eHkAAAAJ&hl=nl) on the [Speaking Rosetta Team](http://129.199.81.135/cmuworkshop/) in 2017.
-
-I received my bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. During my undergrad, I was fortunate to work on computer vision problems with [Dr. Hyunsung Park](https://sites.google.com/site/hyunsung/) and [Prof. Ramesh Raskar](http://web.media.mit.edu/~raskar/) at the MIT Media Lab mentored [REDX Innovation
-Labs](http://redx.io), on machine translation with [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) at [IIT
-Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Saykhedkar](https://www.linkedin.com/in/harshadss/?originalSubdomain=in) from a startup [Sokrati Technologies](https://sokrati.com).
-
+Prior to starting my PhD, I received my Masters in Language Technologies degree from LTI, CMU. During my master's, I spent two wonderful summers as part of the JHU Frederick Jelinek Summer Workshops [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/) working on multimodal learning. Before that, I received my bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. 
 
 ----
 
