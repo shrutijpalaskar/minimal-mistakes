@@ -13,37 +13,38 @@ I am a first year PhD student at the [Language Technologies Institute](http://ww
 My long-term research goal is to enable machines to learn from multiple modalities of data like text, audio, video, semantics, and draw inferences and make decisions using those, as humans naturally do.
 Currently, I am working on building deep learning models for speech recognition, video understanding and dialog summarization from multimodal data like open-domain videos from YouTube, the [How2 dataset](https://github.com/srvk/how2-dataset), (containing audio, video, text, summary, and topics) or doctor-patient dialogs (containing audio, text, and semantics).
 
-
 Prior to starting my PhD, I received my Masters in Language Technologies degree from LTI, CMU. During my masters, I spent two wonderful summers as part of the Frederick Jelinek Summer Workshops [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/) working on multimodal learning: I worked with [Prof. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/) and [Prof. Odette Scharenborg](https://scholar.google.nl/citations?user=hyz2eHkAAAAJ&hl=nl) on the [Speaking Rosetta Team](http://129.199.81.135/cmuworkshop/) in 2017
-and with [Prof. Lucia Specia](https://staffwww.dcs.shef.ac.uk/people/L.Specia/), [Prof. Raman Arora](http://www.cs.jhu.edu/~raman/Home.html) on the [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction/) in 2018. I received my bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. During my undergrad, I was fortunate to work on computer vision problems with [Dr. Hyunsung Park](https://sites.google.com/site/hyunsung/) and [Prof. Ramesh Raskar](http://web.media.mit.edu/~raskar/) at the MIT Media Lab mentored [REDX Innovation
+and with [Prof. Lucia Specia](https://staffwww.dcs.shef.ac.uk/people/L.Specia/), [Prof. Raman Arora](http://www.cs.jhu.edu/~raman/Home.html) on the [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction/) in 2018. 
+
+I received my bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. During my undergrad, I was fortunate to work on computer vision problems with [Dr. Hyunsung Park](https://sites.google.com/site/hyunsung/) and [Prof. Ramesh Raskar](http://web.media.mit.edu/~raskar/) at the MIT Media Lab mentored [REDX Innovation
 Labs](http://redx.io), on machine translation with [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) at [IIT
 Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Saykhedkar](https://www.linkedin.com/in/harshadss/?originalSubdomain=in) from a startup [Sokrati Technologies](https://sokrati.com).
-'
+
 
 ----
 
 <h3 align="center">News</h3>
 <table class='news-table'>
-    <col width="15%">
-    <col width="85%">
+    <col width="18%">
+    <col width="82%">
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>The <b>How2 dataset></b> of open-domain instructional videos has been released!
-        Checkout our GitHub page for instructions on how2 download <a href="https://github.com/srvk/how2-dataset"></a>
+        <td>The <b>How2 dataset</b> of open-domain instructional videos has been released!</td>
+        <td>Checkout our GitHub page for instructions on <a href="https://github.com/srvk/how2-dataset">how2 download</a>.
         Email me for any questions :-)
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>Our paper on the <b>How2 dataset></b> has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a>. <a href="https://arxiv.org/pdf/1811.00347.pdf">Here </a>is the paper</td>
+        <td>Our paper on the <b>How2 dataset</b> has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a>. Here is a <a href="https://arxiv.org/pdf/1811.00347.pdf">link </a>to the paper.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>Our paper on Multimodal Abstractive Summarization of Open-Domain Videos has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a> as a <b>Spotlight</b> paper</td>
+        <td>Our paper on Multimodal Abstractive Summarization of Open-Domain Videos has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a> for <b>Spotlight</b> presentation!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>Reviewing for the 7th Dialog State Tracking Challenge <a href="http://workshop.colips.org/dstc7/tracks.html">Audio-Visual Scene-aware Dialog Track</a></td>
+        <td>Reviewing for the 7th Dialog State Tracking Challenge <a href="http://workshop.colips.org/dstc7/tracks.html">Audio-Visual Scene-aware Dialog</a> track</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2018]</strong></td>
@@ -51,7 +52,7 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2018]</strong></td>
-        <td>Very happy to be a part of the <a href="https://sites.google.com/view/yfrsw2018/home">Young Female Researchers in Speech, Science and Technology Workshop</a> at Interspeech 2018 as a PhD student panelist</td>
+        <td>Very happy to be a part of the <a href="https://sites.google.com/view/yfrsw2018/home">Young Female Researchers in Speech, Science and Technology Workshop</a> at Interspeech 2018 as a <b>PhD student panelist</b></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2018]</strong></td>
@@ -59,7 +60,7 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
     </tr>
     <tr>
         <td valign="top"><strong>[Jul 2018]</strong></td>
-        <td>Received the Graduate Research Fellowship from the <a href="">Center for Machine Learning and Health</a> for years 2018-2019</td>
+        <td>Received the 2018-2019 Graduate Research Fellowship from the <a href="">Center for Machine Learning and Health</a>. Thank you CMLH!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[June 2018]</strong></td>
@@ -79,7 +80,7 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
     </tr>
     <tr>
         <td valign="top"><strong>[Jul 2017]</strong></td>
-        <td>Excited to start he JSALT 2018 workshop on Speaking Rosetta Stone at CMU!</td>
+        <td>Excited to start the JSALT 2018 workshop as part of the Speaking Rosetta Stone team at CMU!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2016]</strong></td>
