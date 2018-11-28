@@ -8,16 +8,17 @@ comments: false
 
 Hi!
 
-I am a fifth year PhD student at [ECE](http://www.ece.cmu.edu/) department, [Carnegie Mellon University](http://www.cmu.edu/). I work with [Prof. Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/), in the fields of computer vision, natural language and machine learning. 
+I am a first year PhD student at the [Language Technologies Institute](http://www.lti.cs.cmu.edu/) of the School of Computer Science at [Carnegie Mellon University](http://www.cmu.edu/). My research interests lie in the areas of multimodal machine learning, speech recognition and natural language processing. I am fortunate to be advised by [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html).
 
-My interests are in the intersection of natural language and computer vision, and 
-broadly, to solve multimodal AI problems using deep learning techniques.
-I closely collaborate with [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) and 
-[Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) from Georgia Tech on tasks that 
-require multimodal reasoning (vision and language), for example, visual dialog 
-([VisDial](visualdialog.org)).
+My long-term research goal is to enable machines to learn from multiple modalities of data like text, audio, video, semantics, and draw inferences and make decisions using those, as humans naturally do.
+Currently, I am working on building deep learning models for speech recognition, video understanding and dialog summarization from multimodal data like open-domain videos from YouTube, the [How2 dataset](https://github.com/srvk/how2-dataset), (containing audio, video, text, summary, and topics) or doctor-patient dialogs (containing audio, text, and semantics).
 
-I completed my undergraduate from Department of Electrical Engineering ([EE](http://www.ee.iitb.ac.in/)), [Indian Institute of Technology, Bombay](https://www.iitb.ac.in), in 2014 along with a minor in Computer Science and Engineering ([CSE](https://www.cse.iitb.ac.in/)). I worked under [Prof. Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/) on Human Activity Recognition for my undergraduate thesis. 
+
+Prior to starting my PhD, I received my Masters in Language Technologies degree from LTI, CMU. During my masters, I spent two wonderful summers as part of the Frederick Jelinek Summer Workshops [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/) working on multimodal learning: I worked with [Prof. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/) and [Prof. Odette Scharenborg](https://scholar.google.nl/citations?user=hyz2eHkAAAAJ&hl=nl) on the [Speaking Rosetta Team](http://129.199.81.135/cmuworkshop/) in 2017
+and with [Prof. Lucia Specia](https://staffwww.dcs.shef.ac.uk/people/L.Specia/), [Prof. Raman Arora](http://www.cs.jhu.edu/~raman/Home.html) on the [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction/) in 2018. I received my bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. During my undergrad, I was fortunate to work on computer vision problems with [Dr. Hyunsung Park](https://sites.google.com/site/hyunsung/) and [Prof. Ramesh Raskar](http://web.media.mit.edu/~raskar/) at the MIT Media Lab mentored [REDX Innovation
+Labs](http://redx.io), on machine translation with [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) at [IIT
+Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Saykhedkar](https://www.linkedin.com/in/harshadss/?originalSubdomain=in) from a startup [Sokrati Technologies](https://sokrati.com).
+'
 
 ----
 
@@ -26,142 +27,62 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[July 2018]</strong></td>
-        <td>Our paper on <a>Visual Coreference Resolution in Visual Dialog</a> 
-        has been accepted at <a href="https://eccv2018.org/">ECCV, 2018</a>
+        <td valign="top"><strong>[Nov 2018]</strong></td>
+        <td>The <b>How2 dataset></b> of open-domain instructional videos has been released!
+        Checkout our GitHub page for instructions on how2 download <a href="https://github.com/srvk/how2-dataset"></a>
+        Email me for any questions :-)
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Jan 2018]</strong></td>
-        <td>Interning at <a href="https://ai.google/research/teams/brain">Google Brain</a> this summer, with <a href="https://ai.stanford.edu/~gal/">Gal Chechik</a> and <a href="http://bengio.abracadoudou.com/">Samy Bengio</a></td>
+        <td valign="top"><strong>[Nov 2018]</strong></td>
+        <td>Our paper on the <b>How2 dataset></b> has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a>. <a href="https://arxiv.org/pdf/1811.00347.pdf">Here </a>is the paper</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Dec 2017]</strong></td>
-        <td>I was awarded the inaugural <a href='https://snapresearchfellowship.splashthat.com/'>Snap Inc. Research Fellowship</a>, 2017</td>
+        <td valign="top"><strong>[Nov 2018]</strong></td>
+        <td>Our paper on Multimodal Abstractive Summarization of Open-Domain Videos has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a> as a <b>Spotlight</b> paper</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Dec 2017]</strong></td>
-        <td>I received a <a href='https://nips.cc/Conferences/2017/Awards'>Best Reviewer Award</a> at NIPS 2017</td>
+        <td valign="top"><strong>[Nov 2018]</strong></td>
+        <td>Reviewing for the 7th Dialog State Tracking Challenge <a href="http://workshop.colips.org/dstc7/tracks.html">Audio-Visual Scene-aware Dialog Track</a></td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Sept 2017]</strong></td>
-        <td>Our paper on <a>Deepsets</a> has been accepted as an <b> oral</b> at NIPS, 2017</td>
+        <td valign="top"><strong>[Oct 2018]</strong></td>
+        <td><a href="http://www.cs.cmu.edu/~ramons/">Ramon</a> and I won the first place in the 7th Dialog State Tracking Challenge Audio Visual Scene-aware Dialog</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Aug 2017]</strong></td>
-        <td>Our paper on <a>Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a> won the <b>best short paper</b> award at EMNLP 2017</td>
+        <td valign="top"><strong>[Sep 2018]</strong></td>
+        <td>Very happy to be a part of the <a href="https://sites.google.com/view/yfrsw2018/home">Young Female Researchers in Speech, Science and Technology Workshop</a> at Interspeech 2018 as a PhD student panelist</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Aug 2017]</strong></td>
-        <td>Our paper on <a>Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a> has been accepted as an <b> oral</b> at ICCV, 2017</td>
+        <td valign="top"><strong>[Sep 2018]</strong></td>
+        <td>Our paper on <a href="https://arxiv.org/abs/1807.09597">Acoustic-to-Word Speech Recognition with Sequence-to-Sequence Models</a> is accepted at <a href="http://www.slt2018.org">SLT 2018</a></td>
     </tr>
     <tr>
-        <td valign="top"><strong>[July 2017]</strong></td>
-        <td>Our paper on <a>Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a> has been accepted as an <b> oral</b> at EMNLP, 2017</td>
+        <td valign="top"><strong>[Jul 2018]</strong></td>
+        <td>Received the Graduate Research Fellowship from the <a href="">Center for Machine Learning and Health</a> for years 2018-2019</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[June 2017]</strong></td>
-        <td>Checkout our latest paper, <a href="https://arxiv.org/abs/1706.08502">Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a>, on Arxiv.
-        Github code available <a href="https://github.com/batra-mlp-lab/lang-emerge">here</a></td>
+        <td valign="top"><strong>[June 2018]</strong></td>
+        <td>Excited to start the JSALT 2018 workshop on Grounded Sequence to Sequence Transduction at JHU!</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[May 2017]</strong></td>
-        <td>Our paper on <a>Canopy</a> got accepted at ICML, 2017</td>
+        <td valign="top"><strong>[May 2018]</strong></td>
+        <td>Graduated from the Masters program at CMU, yay!</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Apr 2017]</strong></td>
-        <td>Our paper on <a>Exploring Personalized Neural Conversational Models</a> got accepted at IJCAI, 2017</td>
+        <td valign="top"><strong>[Feb 2018]</strong></td>
+        <td>Our paper on <a href="https://arxiv.org/abs/1804.09713">End-to-End Multimodal Speech Recognition</a> got accepted at ICASSP 2018!</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Apr 2017]</strong></td>
-        <td>Find our Github code for Visual Dialog <a href="https://github.com/batra-mlp-lab/visdial">here</a></td>
+        <td valign="top"><strong>[Sep 2017]</strong></td>
+        <td>Excited to attend the Young Female Researchers in Speech Workshop at Interspeech 2017 and present our work on Multimodal Speech Recognition and Summarization</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Mar 2017]</strong></td>
-        <td>Checkout our latest paper, <a href="https://arxiv.org/abs/1703.06585">Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a>, on arXiv</td>
+        <td valign="top"><strong>[Jul 2017]</strong></td>
+        <td>Excited to start he JSALT 2018 workshop on Speaking Rosetta Stone at CMU!</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Mar 2017]</strong></td>
-        <td>Checkout our latest paper, <a href="https://arxiv.org/abs/1703.06114">Deepsets</a>, on arXiv</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Mar 2017]</strong></td>
-        <td>Our paper on <a href="https://visualdialog.org/">Visual Dialog</a> got accepted at CVPR, 2017 as a <b>Spotlight</b></td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Mar 2017]</strong></td>
-        <td>Interning at <a href="https://research.fb.com/category/facebook-ai-research-fair/">Facebook AI Research (FAIR)</a> this summer, with <a href="http://rohrbach.vision/">Marcus Rohrbach</a></td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Nov 2016]</strong></td>
-        <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1611.08669">Visual Dialog</a>, on arXiv</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Aug 2016]</strong></td>
-        <td>Serving as Vice-President of <a href="https://www.ece.cmu.edu/~ego/"> ECE Graduate Organization</a>, CMU</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[May 2016]</strong></td>
-        <td>Serving as a reviewer for <a href="https://nips.cc/"> NIPS 2016</a></td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Mar 2016]</strong></td>
-        <td>Our paper on <a href="http://arxiv.org/abs/1511.07067">Visual Word2Vec</a> got accepted to CVPR, 2016</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Dec 2015]</strong></td>
-        <td>I would be interning at <a href="https://www.snapchat.com/">Snapchat</a> this summer</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Nov 2015]</strong></td>
-        <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1511.07067">Visual Word2Vec</a>, on arXiv</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Oct 2015]</strong></td>
-        <td>Checkout our paper, <a href="http://opt-ml.org/papers/OPT2015_paper_52.pdf">Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models</a>, which got accepted in NIPS: <a href="http://opt-ml.org/papers.html">OPT</a> workshop, 2015</td>
-    </tr>
-</table>
-
-----
-
-<h3 align="center">Affiliations</h3>
-<table align="center" class='affl-pic'>
-    <tr>
-        <td>
-            <a href="http://www.cmu.edu/">
-            <img src="/images/cmu-logo.png"></a>
-        </td>
-        <td>
-            <a href="http://www.iitb.ac.in/">
-            <img src="/images/iitb-logo.jpeg"></a>
-        </td>
-        <td>
-            <a href="http://viterbi.usc.edu/">
-            <img src="/images/viterbi-logo.jpg"></a>
-        </td>
-    <tr>
-    <tr>
-        <td>Carnegie Mellon University<br>2014-present</td>
-        <td>IIT Bombay<br>2010-2014</td>
-        <td>Viterbi School, USC<br>Summer 2013</td>
-    </tr>
-    </tr>
-        <td>
-            <a href="https://www.snapchat.com/">
-            <img src="/images/snapchat-logo.png"></a>
-        </td>
-        <td>
-            <a href="https://research.fb.com/category/facebook-ai-research-fair/">
-            <img src="/images/fair-logo.png"></a>
-        </td>
-        <td>
-            <a href="https://ai.google/research/teams/brain">
-            <img src="/images/google-logo.png"></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Snapchat Research<br>Summer 2016</td>
-        <td>Facebook AI Research<br>Summer 2017</td>
-        <td>Google Brain<br>Summer 2018</td>
+        <td valign="top"><strong>[Sep 2016]</strong></td>
+        <td>Awared the CMU, LTI Graduate Fellowship for acamedic years 2016-2018</td>
     </tr>
 </table>
