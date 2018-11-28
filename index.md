@@ -2,7 +2,7 @@
 layout: page
 title: Welcome
 tags: [shruti, palaskar, home, cmu, speech recognition, machine learning, natural language processing, graduate, carnegie mellon]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2018-11-27T20:53:07.573882-04:00
 comments: false
 ---
 
@@ -13,8 +13,7 @@ I am a first year PhD student at the [Language Technologies Institute](http://ww
 My long-term research goal is to enable machines to learn from multiple modalities of data like text, audio, video, semantics, and draw inferences and make decisions using those, as humans naturally do.
 Currently, I am working on building deep learning models for speech recognition, video understanding and dialog summarization from multimodal data like open-domain videos from YouTube, the [How2 dataset](https://github.com/srvk/how2-dataset), (containing audio, video, text, summary, and topics) or doctor-patient dialogs (containing audio, text, and semantics).
 
-Prior to starting my PhD, I received my Masters in Language Technologies degree from LTI, CMU. During my masters, I spent two wonderful summers as part of the Frederick Jelinek Summer Workshops [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/) working on multimodal learning: I worked with [Prof. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/) and [Prof. Odette Scharenborg](https://scholar.google.nl/citations?user=hyz2eHkAAAAJ&hl=nl) on the [Speaking Rosetta Team](http://129.199.81.135/cmuworkshop/) in 2017
-and with [Prof. Lucia Specia](https://staffwww.dcs.shef.ac.uk/people/L.Specia/), [Prof. Raman Arora](http://www.cs.jhu.edu/~raman/Home.html) on the [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction/) in 2018. 
+Prior to starting my PhD, I received my Masters in Language Technologies degree from LTI, CMU. During my masters, I spent two wonderful summers as part of the Frederick Jelinek Summer Workshops [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/) working on multimodal learning: I worked with [Prof. Lucia Specia](https://staffwww.dcs.shef.ac.uk/people/L.Specia/) and [Prof. Raman Arora](http://www.cs.jhu.edu/~raman/Home.html) on the [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction/) in 2018 and with [Prof. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/) and [Prof. Odette Scharenborg](https://scholar.google.nl/citations?2user=hyz2eHkAAAAJ&hl=nl) on the [Speaking Rosetta Team](http://129.199.81.135/cmuworkshop/) in 2017.
 
 I received my bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. During my undergrad, I was fortunate to work on computer vision problems with [Dr. Hyunsung Park](https://sites.google.com/site/hyunsung/) and [Prof. Ramesh Raskar](http://web.media.mit.edu/~raskar/) at the MIT Media Lab mentored [REDX Innovation
 Labs](http://redx.io), on machine translation with [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) at [IIT
