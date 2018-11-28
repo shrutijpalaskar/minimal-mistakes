@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            
-locale:           en_US
+title: Shruti Palaskar
+locale: en_US
 url: https://shrutijpalaskar.github.io
 # Jekyll configuration
 theme: minimal-mistakes-jekyll
@@ -22,11 +22,10 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-
 # Site owner
 owner:
   name: Shruti Palaskar
-  avatar: linked-in-headshot.png
+  avatar: linked-in-headshot.png #try image instead of avatar, try cmlh pic
   position: Graduate Student
   school: Carnegie Mellon University
   place: Pittsburgh, PA.
@@ -43,7 +42,7 @@ owner:
     ad-slot:
   bing-verify:
   github: shrutijpalaskar
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: #username 
   linkedin: shrutipalaskar #username
   xing: #username
   instagram: #username
