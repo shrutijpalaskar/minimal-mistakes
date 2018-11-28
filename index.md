@@ -47,7 +47,7 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2018]</strong></td>
-        <td><a href="http://www.cs.cmu.edu/~ramons/">Ramon</a> and I won the first place in the 7th Dialog State Tracking Challenge Audio Visual Scene-aware Dialog track</td>
+        <td><a href="http://www.cs.cmu.edu/~ramons/">Ramon</a> and I won the <b>first place</b> in the 7th Dialog State Tracking Challenge Audio Visual Scene-aware Dialog track</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2018]</strong></td>
@@ -55,11 +55,11 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2018]</strong></td>
-        <td>Our paper on <a href="https://arxiv.org/abs/1807.09597">Acoustic-to-Word Speech Recognition with Sequence-to-Sequence Models</a> is accepted at <a href="http://www.slt2018.org">SLT 2018</a></td>
+        <td>Our paper on <a href="https://arxiv.org/abs/1807.09597">Acoustic-to-Word Speech Recognition</a> is accepted at <a href="http://www.slt2018.org">SLT 2018</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jul 2018]</strong></td>
-        <td>Received the 2018-2019 Graduate Research Fellowship from the <a href="">Center for Machine Learning and Health</a>. Thank you CMLH!</td>
+        <td>Received the 2018-2019 <b>Graduate Research Fellowship</b> from the <a href="https://www.cs.cmu.edu/cmlh-fellows_2018">Center for Machine Learning and Health</a>. Thank you CMLH!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[June 2018]</strong></td>
@@ -71,18 +71,18 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2018]</strong></td>
-        <td>Our paper on <a href="https://arxiv.org/abs/1804.09713">End-to-End Multimodal Speech Recognition</a> got accepted at ICASSP 2018!</td>
+        <td>Our paper on <a href="https://arxiv.org/abs/1804.09713">Multimodal Speech Recognition</a> got accepted at ICASSP 2018!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2017]</strong></td>
-        <td>Excited to attend the Young Female Researchers in Speech Workshop at Interspeech 2017 and present our work on Multimodal Speech Recognition and Summarization</td>
+        <td>Excited to attend the Young Female Researchers in Speech Workshop at Interspeech 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jul 2017]</strong></td>
-        <td>Excited to start the JSALT 2018 workshop as part of the Speaking Rosetta Stone team at CMU!</td>
+        <td>Excited to start the JSALT 2017 workshop as part of the Speaking Rosetta Stone team at CMU!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2016]</strong></td>
-        <td>Received the CMU LTI Graduate Research Fellowship for acamedic years 2016-2018</td>
+        <td>Received the CMU LTI <b>Graduate Research Fellowship</b> for acamedic years 2016-2018</td>
     </tr>
 </table>
