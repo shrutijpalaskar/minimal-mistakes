@@ -8,14 +8,14 @@ comments: false
 
 You can contact me at :
 
-**Satwik Kottur**  
+**Shruti Palaskar**  
 Email:  
 
-* skottur [at] andrew [dot] cmu [dot] edu
-* satwik27 [at] gmail [dot] com
+* spalaska [at] cs [dot] cmu [dot] edu
+* shrutijpalaskar [at] gmail [dot] com
 
 Address:  
-B10, Porter Hall,  
-5000 Forbes,  
+407 South Craig Street,
+Room 210,
 Carnegie Mellon University,  
 Pittsburgh, PA - 15213.  
