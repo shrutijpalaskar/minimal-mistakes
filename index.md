@@ -29,7 +29,7 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
         <td>The <b>How2 dataset</b> of open-domain instructional videos has been released!
-        Checkout our GitHub page for instructions on <a href="https://github.com/srvk/how2-dataset">how2 download</a>.
+        Read more on <a href="https://github.com/srvk/how2-dataset">how2 download</a>.
         Email me for any questions :-)
         </td>
     </tr>
@@ -47,7 +47,7 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2018]</strong></td>
-        <td><a href="http://www.cs.cmu.edu/~ramons/">Ramon</a> and I won the first place in the 7th Dialog State Tracking Challenge Audio Visual Scene-aware Dialog</td>
+        <td><a href="http://www.cs.cmu.edu/~ramons/">Ramon</a> and I won the first place in the 7th Dialog State Tracking Challenge Audio Visual Scene-aware Dialog track</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2018]</strong></td>
@@ -83,6 +83,6 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2016]</strong></td>
-        <td>Awared the CMU, LTI Graduate Fellowship for acamedic years 2016-2018</td>
+        <td>Received the CMU LTI Graduate Research Fellowship for acamedic years 2016-2018</td>
     </tr>
 </table>
