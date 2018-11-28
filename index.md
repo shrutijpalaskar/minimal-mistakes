@@ -25,12 +25,12 @@ Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshed Say
 
 <h3 align="center">News</h3>
 <table class='news-table'>
-    <col width="18%">
-    <col width="82%">
+    <col width="20%">
+    <col width="80%">
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>The <b>How2 dataset</b> of open-domain instructional videos has been released!</td>
-        <td>Checkout our GitHub page for instructions on <a href="https://github.com/srvk/how2-dataset">how2 download</a>.
+        <td>The <b>How2 dataset</b> of open-domain instructional videos has been released!
+        Checkout our GitHub page for instructions on <a href="https://github.com/srvk/how2-dataset">how2 download</a>.
         Email me for any questions :-)
         </td>
     </tr>
