@@ -16,8 +16,8 @@ Prior to starting my PhD, I received my Masters in Language Technologies degree 
 
 <h3 align="center">News</h3>
 <table class='news-table'>
-    <col width="20%">
-    <col width="80%">
+    <col width="18%">
+    <col width="82%">
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
         <td>The <b>How2 dataset</b> of open-domain instructional videos has been released!
