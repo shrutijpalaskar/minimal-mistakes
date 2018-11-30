@@ -6,15 +6,15 @@ modified: 2018-28-11T20:53:07.573882-04:00
 comments: false
 ---
 
-I am interested in enabling machines to learn from multiple modalities of data like text, audio, video, semantics as humans naturally do. Currently, I am working on building deep learning models for multimodal speech recognition and video understanding from open-domain videos like the [How2 dataset](https://github.com/srvk/how2-dataset) and dialog summarization for doctor-patient conversations.
+I am interested in enabling machines to learn from multiple modalities of data like text, audio, video, semantics as humans naturally do.
 
 ### Ongoing Research
 
-* **End-to-End Speech Recognition**
+* **End-to-End and Multimodal Speech Recognition**
 
-* **Multimodal Video Understanding**
+* **Multimodal Video Understanding from Open-Domain videos like the [How2 dataset](https://github.com/srvk/how2-dataset)**
 
-* **Doctor-Patient Dialog Summarization**
+* **Dialog Summarization for Doctor-Patient Conversations**
 
   
 
