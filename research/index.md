@@ -19,21 +19,21 @@ I am interested in enabling machines to learn from multiple modalities of data l
 
 ### Summer Internships
 
-* **[JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/) 2018**
+* **[JSALT 2018](https://www.clsp.jhu.edu/workshops/18-workshop/)**  
 As part of the JHU summer workshop (JSALT), I worked with [Prof. Lucia Specia](https://staffwww.dcs.shef.ac.uk/people/L.Specia/) and [Prof. Raman Arora](http://www.cs.jhu.edu/~raman/Home.html) on the [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction/) team working on multiview learning, summarization and speech recognition using the [How2](https://github.com/srvk/how2-dataset) data
 
-* **[JSALT](https://www.clsp.jhu.edu/workshops/17-workshop/) 2017** 
-I participated in JSALT in 2017 as well working with [Prof. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/) and [Prof. Odette Scharenborg](https://scholar.google.nl/citations?2user=hyz2eHkAAAAJ&hl=nl) on the [Speaking Rosetta Team](http://129.199.81.135/cmuworkshop/) working on multimodal speech recognition
+* **[JSALT 2017](https://www.clsp.jhu.edu/workshops/17-workshop/)**   
+I worked with [Prof. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/) and [Prof. Odette Scharenborg](https://scholar.google.nl/citations?2user=hyz2eHkAAAAJ&hl=nl) as part of the [Speaking Rosetta Team](http://129.199.81.135/cmuworkshop/) working on multimodal speech recognition
 
 ### Past Projects
 
-* **DARPA AIDA**
+* **DARPA AIDA**  
 Advised by [Prof. Eduard Hovy](https://www.cs.cmu.edu/~hovy/) and [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html)
 
 
-* **Topic Modeling for Electronic Medical Records**
-Advised by [Prof. Eric Xing](http://www.cs.cmu.edu/~epxing/)
-Class project for Probabilistic Graphical Models (10-708 Spring 2017)
+* **Topic Modeling for Electronic Medical Records**  
+Advised by [Prof. Eric Xing](http://www.cs.cmu.edu/~epxing/)  
+Class project for Probabilistic Graphical Models (10-708 Spring 2017)  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/pdf/1709.02842.pdf)
 
 ### Undergrad Internships
