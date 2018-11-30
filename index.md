@@ -22,21 +22,14 @@ Prior to starting my PhD, I received my Masters in Language Technologies degree 
         <td valign="top"><strong>[Nov 2018]</strong></td>
         <td>The <b>How2 dataset</b> of open-domain instructional videos has been released!
         Read more on <a href="https://github.com/srvk/how2-dataset">how2 download</a>.
-        Email me for any questions :-)
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>Our paper on the <b>How2 dataset</b> has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a>. Here is a <a href="https://arxiv.org/pdf/1811.00347.pdf">link </a>to the paper.</td>
-    </tr>
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>Our paper on Multimodal Abstractive Summarization of Open-Domain Videos has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a> for <b>Spotlight</b> presentation!</td>
+        <td>Our paper on Multimodal Abstractive Summarization has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a> for <b>Spotlight</b> presentation!</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>Reviewing for the 7th Dialog State Tracking Challenge <a href="http://workshop.colips.org/dstc7/tracks.html">Audio-Visual Scene-aware Dialog</a> track</td>
-    </tr>
     <tr>
         <td valign="top"><strong>[Oct 2018]</strong></td>
         <td><a href="http://www.cs.cmu.edu/~ramons/">Ramon</a> and I won the <b>first place</b> in the 7th Dialog State Tracking Challenge Audio Visual Scene-aware Dialog track</td>
