@@ -25,7 +25,7 @@ kramdown:
 # Site owner
 owner:
   name: Shruti Palaskar
-  avatar: head-shot-500x500.png #linked-in-headshot.png #try image instead of avatar, try cmlh pic
+  avatar: linked-in-headshot.png #try image instead of avatar, try cmlh pic
   position: Graduate Student
   school: Carnegie Mellon University
   place: Pittsburgh, PA.
