@@ -20,16 +20,13 @@ Prior to starting my PhD, I received my Masters in Language Technologies degree 
     <col width="82%">
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>The <b>How2 dataset</b> of open-domain instructional videos has been released!
-        Read more on <a href="https://github.com/srvk/how2-dataset">how2 download</a>.
+        <td>The <a href="https://github.com/srvk/how2-dataset">How2 dataset</a> of open-domain instructional videos has been released!
         </td>
     </tr>
-    <tr>
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
         <td>Our paper on Multimodal Abstractive Summarization has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a> for <b>Spotlight</b> presentation!</td>
     </tr>
-    <tr>
     <tr>
         <td valign="top"><strong>[Oct 2018]</strong></td>
         <td><a href="http://www.cs.cmu.edu/~ramons/">Ramon</a> and I won the <b>first place</b> in the 7th Dialog State Tracking Challenge Audio Visual Scene-aware Dialog track</td>
@@ -47,24 +44,12 @@ Prior to starting my PhD, I received my Masters in Language Technologies degree 
         <td>Received the 2018-2019 <b>Graduate Research Fellowship</b> from the <a href="https://www.cs.cmu.edu/cmlh-fellows_2018">Center for Machine Learning and Health</a>. Thank you CMLH!</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[June 2018]</strong></td>
-        <td>Excited to start the JSALT 2018 workshop on Grounded Sequence to Sequence Transduction at JHU!</td>
-    </tr>
-    <tr>
         <td valign="top"><strong>[May 2018]</strong></td>
         <td>Graduated from the Masters program at CMU, yay!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2018]</strong></td>
         <td>Our paper on <a href="https://arxiv.org/abs/1804.09713">Multimodal Speech Recognition</a> got accepted at ICASSP 2018!</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Sep 2017]</strong></td>
-        <td>Excited to attend the Young Female Researchers in Speech Workshop at Interspeech 2017</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Jul 2017]</strong></td>
-        <td>Excited to start the JSALT 2017 workshop as part of the Speaking Rosetta Stone team at CMU!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2016]</strong></td>

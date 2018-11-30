@@ -16,13 +16,14 @@ I am interested in enabling machines to learn from multiple modalities of data l
 
 * **Doctor-Patient Dialog Summarization**
 
+  
 
 ### Summer Internships
 
 * **[JSALT 2018](https://www.clsp.jhu.edu/workshops/18-workshop/)**  
 As part of the JHU summer workshop (JSALT), I worked with [Prof. Lucia Specia](https://staffwww.dcs.shef.ac.uk/people/L.Specia/) and [Prof. Raman Arora](http://www.cs.jhu.edu/~raman/Home.html) on the [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction/) team working on multiview learning, summarization and speech recognition using the [How2](https://github.com/srvk/how2-dataset) data
 
-* **[JSALT 2017](https://www.clsp.jhu.edu/workshops/17-workshop/)**   
+* **[JSALT 2017](https://www.lti.cs.cmu.edu/2017-jelinek-workshop)**   
 I worked with [Prof. Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/) and [Prof. Odette Scharenborg](https://scholar.google.nl/citations?2user=hyz2eHkAAAAJ&hl=nl) as part of the [Speaking Rosetta Team](http://129.199.81.135/cmuworkshop/) working on multimodal speech recognition
 
 ### Past Projects
