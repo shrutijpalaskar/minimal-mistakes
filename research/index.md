@@ -10,11 +10,11 @@ I am interested in enabling machines to learn from multiple modalities of data l
 
 ### Ongoing Research
 
-* **End-to-End and Multimodal Speech Recognition**
+* End-to-End and Multimodal Speech Recognition
 
-* **Multimodal Video Understanding from Open-Domain videos like the [How2 dataset](https://github.com/srvk/how2-dataset)**
+* Multimodal Video Understanding from Open-Domain videos like the [How2 dataset](https://github.com/srvk/how2-dataset)
 
-* **Dialog Summarization for Doctor-Patient Conversations**
+* Dialog Summarization for Doctor-Patient Conversations
 
   
 
