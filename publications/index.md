@@ -13,7 +13,9 @@ comments: false
 
 1. **Shruti Palaskar**\*, Vikas Raunak\*, Florian Metze
 [Learned in Speech Recognition: Contextual Acoustic Word Embeddigs]()
+
 *Under Submission: International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019*
+
 [<button type="button" class="btn btn-info">Link</button>](https://openreview.net/pdf?id=SJlmNI0ojQ)
 
 1. Nils Holzenberger\*, **Shruti Palaskar**\*, Pranava Madhyastha, Florian Metze, Raman Arora
