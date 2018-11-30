@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-* spalaska [at] cs [dot] cmu [dot] edu
+spalaska [at] cs [dot] cmu [dot] edu  
 
 407 South Craig Street,  
 Room 210,  
