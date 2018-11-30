@@ -389,8 +389,8 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
-		#max-width: 600px;
-        #max-height: 400px;
+		max-width: 600px;
+        max-height: 400px;
         #border-radius: 0px;
 		/*@include rounded(150px);*/
 	}
