@@ -19,6 +19,11 @@ Prior to starting my PhD, I received my master's degree in Language Technologies
     <col width="18%">
     <col width="82%">
     <tr>
+        <td valign="top"><strong>[Dec 2018]</strong></td>
+        <td>Received the <a href="https://research.fb.com/programs/fellowship/">Facebook Fellowship</a> for academic years 2019-2021. Thank you Facebook!
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
         <td>The <a href="https://github.com/srvk/how2-dataset">How2 dataset</a> of open-domain instructional videos has been released!
         </td>
@@ -33,7 +38,7 @@ Prior to starting my PhD, I received my master's degree in Language Technologies
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2018]</strong></td>
-        <td>Very happy to be a part of the <a href="https://sites.google.com/view/yfrsw2018/home">Young Female Researchers in Speech, Science and Technology Workshop</a> at Interspeech 2018 as a <b>PhD student panelist</b></td>
+        <td> <b>PhD student panelist</b> at the <a href="https://sites.google.com/view/yfrsw2018/home">Young Female Researchers in Speech Workshop</a> at Interspeech 2018</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2018]</strong></td>
@@ -41,15 +46,7 @@ Prior to starting my PhD, I received my master's degree in Language Technologies
     </tr>
     <tr>
         <td valign="top"><strong>[Jul 2018]</strong></td>
-        <td>Received the 2018-2019 <b>Graduate Research Fellowship</b> from the <a href="https://www.cs.cmu.edu/cmlh-fellows_2018">Center for Machine Learning and Health</a>. Thank you CMLH!</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[May 2018]</strong></td>
-        <td>Graduated from the Masters program at CMU, yay!</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Feb 2018]</strong></td>
-        <td>Our paper on <a href="https://arxiv.org/abs/1804.09713">Multimodal Speech Recognition</a> got accepted at ICASSP 2018!</td>
+        <td>Received the 2018-2019 <b>PhD Fellowship</b> from the <a href="https://www.cs.cmu.edu/cmlh-fellows_2018">Center for Machine Learning and Health</a>. Thank you CMLH!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2016]</strong></td>

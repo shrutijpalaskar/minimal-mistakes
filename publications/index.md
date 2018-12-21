@@ -30,6 +30,7 @@ Ozan Caglayan, Ramon Sanabria, **Shruti Palaskar**, Loïc Barrault, Florian Metz
 Ramon Sanabria\*, **Shruti Palaskar**\*, Florian Metze  
 **Oral Presentation**  
 *7th Dialog State Tracking Challenge (DSTC) at AAAI, 2019*
+[<button type="button" class="btn btn-info">Paper</button>](/files/dstc7_system_description.pdf)
 
 **2018**
 
