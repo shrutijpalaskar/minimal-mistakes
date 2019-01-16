@@ -29,7 +29,7 @@ Ozan Caglayan, Ramon Sanabria, **Shruti Palaskar**, Loïc Barrault, Florian Metz
 1. [CMU Sinbad's Submission to the DSTC7 AVSD Track]()  
 Ramon Sanabria\*, **Shruti Palaskar**\*, Florian Metze  
 **Oral Presentation**  
-*7th Dialog State Tracking Challenge (DSTC) at AAAI, 2019*
+*7th Dialog State Tracking Challenge (DSTC) at AAAI, 2019*  
 [<button type="button" class="btn btn-info">Paper</button>](/files/dstc7_system_description.pdf)
 
 **2018**
@@ -47,7 +47,8 @@ Ramon Sanabria, Ozan Caglayan, **Shruti Palaskar**, Desmond Elliott, Loïc Barra
 1. [Multimodal Abstractive Summarization for Open-Domain Videos]()  
 Jindrich Libovicky, **Shruti Palaskar**, Spandana Gella, Florian Metze  
 **Spotlight Presentation**  
-*NeurIPS workshop on Visually Grounded Interaction and Language (ViGIL), 2018*
+*NeurIPS workshop on Visually Grounded Interaction and Language (ViGIL), 2018*  
+[<button type="button" class="btn btn-info">Paper</button>](https://nips2018vigil.github.io/static/papers/accepted/8.pdf)
 
 1. [End-to-End Multimodal Speech Recognition]()  
 **Shruti Palaskar**\*, Ramon Sanabria\*, Florian Metze  

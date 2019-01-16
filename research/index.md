@@ -13,8 +13,8 @@ I am interested in enabling machines to learn from multiple modalities of data l
 * **End-to-End and Multimodal Speech Recognition**  
 Building robust direct acoustic-to-word models for audio-only and audio-visual data
 
-* **Multimodal Video Understanding from Open-Domain Instructional videos like the [How2 dataset](https://github.com/srvk/how2-dataset)**  
-Exploring video summarization and understanding to identify differences and similarities in two similar videos. Generalizing abstractive summarization for open-domain videos.
+* **Multimodal Video Understanding**  
+Exploring video summarization and understanding to identify differences and similarities in two similar videos. Generalizing abstractive summarization for open-domain videos using the [How2 dataset](https://github.com/srvk/how2-dataset).
 
 * **Dialog Summarization for Doctor-Patient Conversations**  
 Abstractive dialog summarization for medical conversations to generate Subjective, Objective, Assessment and Plan notes.
