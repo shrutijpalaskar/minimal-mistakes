@@ -8,13 +8,13 @@ comments: false
 
 Hi!
 
-I am a first year PhD student at the [Language Technologies Institute](http://www.lti.cs.cmu.edu/) of the School of Computer Science at [Carnegie Mellon University](http://www.cmu.edu/). My research interests lie in the areas of multimodal machine learning, speech recognition and natural language generation. I am fortunate to be advised by [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html).
+I am a first year PhD student at the [Language Technologies Institute](http://www.lti.cs.cmu.edu/) of the School of Computer Science at [Carnegie Mellon University](http://www.cmu.edu/). My research interests lie in the areas of multimodal machine learning, speech recognition and natural language processing. I am fortunate to be advised by [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html).
 
-Prior to starting my PhD, I received my master's degree in Language Technologies from LTI, CMU. During my master's, I spent two wonderful summers as part of the JHU Summer Workshops [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/) working on multimodal learning. Before that, I received my bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. 
+Prior to starting my PhD, I received my master's degree in Language Technologies from LTI, CMU in 2018. During my master's, I spent two wonderful summers as part of the JHU Summer Workshops [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/) working on multimodal learning. Before that, I received my bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. 
 
 ----
 
-<h3 align="center">News</h3>
+<h3 align="center">Updates</h3>
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
