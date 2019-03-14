@@ -19,13 +19,28 @@ Prior to starting my PhD, I received my master's degree in Language Technologies
     <col width="18%">
     <col width="82%">
     <tr>
+        <td valign="top"><strong>[Mar 2019]</strong></td>
+        <td>I will be giving a talk about our work on Multimodal Acoustic Word Embeddings at the 6th Amazon Graduate Student Symposium in Seattle. <a href="files/amazon-gradsymposium.pdf">Slides here!</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Feb 2019]</strong></td>
+        <td>We will be holding the <a href="https://srvk.github.io/how2-dataset/icml2019-challenge.html">How2 Challenge and Workshop</a> at ICML 2019. If you work on anything multimodal, hope to see you there!
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jan 2019]</strong></td>
+        <td>Come check out the special session on <i>Multimodal Representation Learning for Language Generation and Understanding</i> at ICASSP 2019.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Dec 2018]</strong></td>
         <td>Received the <a href="https://research.fb.com/programs/fellowship/">Facebook Fellowship</a> for academic years 2019-2021. Thank you Facebook!
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>The <a href="https://github.com/srvk/how2-dataset">How2 dataset</a> of open-domain instructional videos has been released!
+        <td>The <a href="https://github.com/srvk/how2-dataset">How2 dataset</a> of open-domain instructional videos has been released! Check it out!
         </td>
     </tr>
     <tr>
@@ -34,7 +49,7 @@ Prior to starting my PhD, I received my master's degree in Language Technologies
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2018]</strong></td>
-        <td><a href="http://www.cs.cmu.edu/~ramons/">Ramon</a> and I won the <b>first place</b> in the 7th Dialog State Tracking Challenge Audio Visual Scene-aware Dialog track</td>
+        <td><a href="http://www.cs.cmu.edu/~ramons/">Ramon</a> and I won the <b>first place</b> in the audio-visual track of <a href="http://workshop.colips.org/dstc7/">DSTC7.</a> We will present this at AAAI 2019 in Hawaii.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2018]</strong></td>
@@ -46,7 +61,7 @@ Prior to starting my PhD, I received my master's degree in Language Technologies
     </tr>
     <tr>
         <td valign="top"><strong>[Jul 2018]</strong></td>
-        <td>Received the 2018-2019 <b>PhD Fellowship</b> from the <a href="https://www.cs.cmu.edu/cmlh-fellows_2018">Center for Machine Learning and Health</a>. Thank you CMLH!</td>
+        <td>Received the 2018-2019 <a href="https://www.cs.cmu.edu/cmlh-fellows_2018">Center for Machine Learning and Health</a> <b>PhD Fellowship</b>. Thank you CMLH!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2016]</strong></td>
