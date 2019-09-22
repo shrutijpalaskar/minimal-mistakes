@@ -36,7 +36,7 @@ Ramon Sanabria\*, **Shruti Palaskar**\*, Florian Metze
 
 1. [Acoustic to Word Recognition with Sequence to Sequence Models](https://arxiv.org/pdf/1807.09597.pdf)  
 **Shruti Palaskar** and Florian Metze  
-*Workshop on Spoken Language Technology (SLT), 2018*  
+*IEEE Workshop on Spoken Language Technology (SLT), 2018*  
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1807.09597.pdf)
 
 1. [How2: A Large-scale Dataset for Multimodal Language Understanding](https://arxiv.org/pdf/1811.00347.pdf)  

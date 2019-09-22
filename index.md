@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: 
 tags: [shruti, palaskar, home, cmu, speech recognition, machine learning, natural language processing, graduate, carnegie mellon]
 modified: 2018-11-27T20:53:07.573882-04:00
 comments: false
