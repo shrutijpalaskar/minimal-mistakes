@@ -11,6 +11,10 @@ comments: false
 
 **2020**
 
+1. Learning Semantic Concepts from Multimodal Data  
+**Shruti Palaskar**, Spandana Gella, Ruslan Salakhutdinov, Alan W. Black, Florian Metze  
+*Under Review*  
+
 1. Transfer Learning for Multimodal Dialog  
 **Shruti Palaskar**\*, Ramon Sanabria\*, Florian Metze  
 *Elsevier Computer Speech and Language*  
