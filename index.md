@@ -23,7 +23,7 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     <col width="82%">
     <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
-        <td>Gave a lecture on Multimodality in 11-4/611 NLP at LTI, CMU. <a href="files/[11-4_611] Multimodality.pdf">[slides]</a>
+        <td>Gave a lecture on Multimodality in 11-4/611 NLP at LTI, CMU. <a href="files/[11-4_611] Multimodality-compressed.pdf">[slides]</a>
         </td>
     </tr>
  <tr>
