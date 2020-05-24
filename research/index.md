@@ -10,18 +10,27 @@ I am interested in enabling machines to learn from multiple modalities of data l
 
 ### Ongoing Research
 
-* **End-to-End and Multimodal Speech Recognition**  
-Building robust direct acoustic-to-word models for audio-only and audio-visual data
 
 * **Multimodal Video Understanding**  
 Exploring video summarization and understanding to identify differences and similarities in two similar videos. Generalizing abstractive summarization for open-domain videos using the [How2 dataset](https://github.com/srvk/how2-dataset).
 
-* **Dialog Summarization for Doctor-Patient Conversations**  
-Abstractive dialog summarization for medical conversations to generate Subjective, Objective, Assessment and Plan notes.
+
+* **End-to-End and Multimodal Speech Recognition**  
+Building robust direct acoustic-to-word models for audio-only and audio-visual data
 
   
 
 ### Summer Internships
+
+* **Facebook AI**  
+Research Intern, Summer 2020  
+Interning with the Speech and Audio team on multimodal ASR models. More soon!
+
+
+* **[Abridge AI](https://www.abridge.com)**  
+Research Intern, Summer 2019  
+Worked with Abridge -- an NLP-based healthcare startup in Pittsburgh -- on understanding Doctor-Patient dialogs and conversation summaries.
+
 
 * **[JSALT 2018](https://www.clsp.jhu.edu/workshops/18-workshop/)**  
 As part of the JHU summer workshop (JSALT), I worked with [Prof. Lucia Specia](https://staffwww.dcs.shef.ac.uk/people/L.Specia/) and [Prof. Raman Arora](http://www.cs.jhu.edu/~raman/Home.html) on the [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction/) team working on multiview learning, summarization and speech recognition using the [How2](https://github.com/srvk/how2-dataset) data
