@@ -9,6 +9,28 @@ comments: false
 [Google Scholar Page](https://scholar.google.com/citations?user=7bun32IAAAAJ&hl=en&oi=ao)
 
 
+**2020**
+
+1. Transfer Learning for Multimodal Dialog  
+**Shruti Palaskar**\*, Ramon Sanabria\*, Florian Metze
+*Elsevier Computer Speech and Language*
+[<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0885230820300267)
+
+1. Grounded Sequence-to-Sequence Transduction  
+Specia, Arora, Barrault, Caglayan, Duarte, Elliott, Gella, Holzenberger, Lala, Lee, Libovick\' y, Madhyastha, Metze, Mulligan, Ostapenko, **Palaskar**, Sanabria, Wang
+*IEEE Journal for Select Topics in Signal Processing*
+
+1. Speech Technology for Unwritten Languages(/files/scharenborg20taslp.pdf)  
+Scharenborg, Besacier, Black, Hasegawa-Johnson, Metze, Neubig, Stüker, Godard, Müller, Ondel, **Palaskar**, Arthur, Ciannella, Du, Larsen, Merkx, Riad, Wang, Dupoux
+*IEEE Transactions for Audio, Speech and Language*
+[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8998182)
+
+1. ASR Error Correction and Domain Adaptation using Machine Translation(https://arxiv.org/pdf/2003.07692.pdf)  
+Anirudh Mani\*, **Shruti Palaskar**\*, Nimshi Venkat Meripo, Sandeep Konam and Florian Metze
+*ICASSP 2020*
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2003.07692.pdf)
+
+
 **2019**
 
 1. [Learned in Speech Recognition: Contextual Acoustic Word Embeddigs](https://openreview.net/pdf?id=SJlmNI0ojQ)  
