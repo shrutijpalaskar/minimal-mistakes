@@ -31,11 +31,17 @@ Scharenborg, Besacier, Black, Hasegawa-Johnson, Metze, Neubig, Stüker, Godard, 
 
 1. [ASR Error Correction and Domain Adaptation using Machine Translation](https://arxiv.org/pdf/2003.07692.pdf)  
 Anirudh Mani\*, **Shruti Palaskar**\*, Nimshi Venkat Meripo, Sandeep Konam and Florian Metze  
-*ICASSP 2020*  
+*International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020*  
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2003.07692.pdf)
 
 
 **2019**
+
+1. [Multimodal Abstractive Summarization for How2 Videos](https://www.aclweb.org/anthology/P19-1659/)  
+**Shruti Palaskar**, Jindrich Libovický, Spandana Gella, Florian Metze  
+*Association for Computational Linguistics (ACL), 2019*
+[<button type="button" class="btn btn-info">Paper</button>](https://www.aclweb.org/anthology/P19-1659/)  
+
 
 1. [Learned in Speech Recognition: Contextual Acoustic Word Embeddigs](https://openreview.net/pdf?id=SJlmNI0ojQ)  
 **Shruti Palaskar**\*, Vikas Raunak\*, Florian Metze  
