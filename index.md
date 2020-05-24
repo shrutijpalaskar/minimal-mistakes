@@ -28,37 +28,37 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     </tr>
  <tr>
         <td valign="top"><strong>[Oct 2019]</strong></td>
-        <td>I will be giving a talk about our work on Learning from Large-Scale Instructional Videos at IBM Research, Yorktown Heights.
+        <td>Talk on Learning from Large-Scale Instructional Videos at IBM Research, Yorktown Heights.
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2019]</strong></td>
-        <td>I will be giving a talk about our work on Learning from Large-Scale Instructional Videos at Facebook AI, Menlo Park.
+        <td>Talk on Learning from Large-Scale Instructional Videos at Facebook AI, Menlo Park.
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jul 2019]</strong></td>
-        <td>I will be giving a talk about our work on Multimodal Acoustic Word Embeddings at the University of Copenhagen, Denmark.
+        <td>Talk on Multimodal Acoustic Word Embeddings at the University of Copenhagen, Denmark.
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2019]</strong></td>
-        <td>I will be giving a talk about our work on Multimodal Acoustic Word Embeddings at the 6th Amazon Graduate Student Symposium in Seattle. <a href="files/amazon-gradsymposium.pdf">Slides here!</a>
+        <td>Talk on Multimodal Acoustic Word Embeddings at the 6th Amazon Graduate Student Symposium, Seattle. <a href="files/amazon-gradsymposium.pdf">Slides here!</a>
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2019]</strong></td>
-        <td>We will be holding the <a href="https://srvk.github.io/how2-dataset/icml2019-challenge.html">How2 Challenge and Workshop</a> at ICML 2019. If you work on anything multimodal, hope to see you there!
+        <td>Co-organizer of the ICML 2019 <a href="https://srvk.github.io/how2-dataset/icml2019-challenge.html">How2 Challenge and Workshop</a>. If you work on anything multimodal, hope to see you there!
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2019]</strong></td>
-        <td>Come check out the special session on <i>Multimodal Representation Learning for Language Generation and Understanding</i> at ICASSP 2019.
+        <td>Check out the special session on <i>Multimodal Representation Learning for Language Generation and Understanding</i> at ICASSP 2019.
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2018]</strong></td>
-        <td>Received the <a href="https://research.fb.com/programs/fellowship/">Facebook Fellowship</a> for academic years 2019-2021. Thank you Facebook!
+        <td>Received the <a href="https://research.fb.com/programs/fellowship/">Facebook Fellowship</a>. Thank you Facebook!
         </td>
     </tr>
     <tr>
