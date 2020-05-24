@@ -22,7 +22,7 @@ Building robust direct acoustic-to-word models for audio-only and audio-visual d
 
 ### Summer Internships
 
-* **Facebook AI**  
+* **[Facebook AI](https://ai.facebook.com/research/speech-and-audio)**  
 Research Intern, Summer 2020  
 Interning with the Speech and Audio team on multimodal ASR models. More soon!
 
