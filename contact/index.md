@@ -10,7 +10,7 @@ Email:
 spalaska [at] cs [dot] cmu [dot] edu  
 
 Address:  
-GHC 6601,  
+6601 Gates and Hillman Center,  
 5000 Forbes Ave,  
 Carnegie Mellon University,  
 Pittsburgh, PA - 15213.  
