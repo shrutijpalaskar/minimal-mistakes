@@ -23,7 +23,7 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     <col width="82%">
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Co-chair of the [Socio-cultural Diversity and Inclusion committee](https://acl2020.org/blog/diversity-and-inclusion/) for ACL 2020
+        <td>Co-chair of the <a href="https://acl2020.org/blog/diversity-and-inclusion">Socio-cultural Diversity and Inclusion committee</a> for ACL 2020
         </td>
     </tr>
  <tr>
