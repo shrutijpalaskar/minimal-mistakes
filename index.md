@@ -22,6 +22,11 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     <col width="18%">
     <col width="82%">
     <tr>
+        <td valign="top"><strong>[Apr 2020]</strong></td>
+        <td>Gave a lecture on Multimodality in 11-4/611 NLP at LTI, CMU. <a href="files/[11-4_611] Multimodality.pdf">[slides]</a>
+        </td>
+    </tr>
+ <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td>Co-chair of the <a href="https://acl2020.org/blog/diversity-and-inclusion">Socio-cultural Diversity and Inclusion committee</a> for ACL 2020
         </td>
