@@ -22,6 +22,26 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     <col width="18%">
     <col width="82%">
     <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Co-chair of the [Socio-cultural Diversity and Inclusion committee](https://acl2020.org/blog/diversity-and-inclusion/) for ACL 2020
+        </td>
+    </tr>
+ <tr>
+        <td valign="top"><strong>[Oct 2019]</strong></td>
+        <td>I will be giving a talk about our work on Learning from Large-Scale Instructional Videos at IBM Research, Yorktown Heights.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Sep 2019]</strong></td>
+        <td>I will be giving a talk about our work on Learning from Large-Scale Instructional Videos at Facebook AI, Menlo Park.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jul 2019]</strong></td>
+        <td>I will be giving a talk about our work on Multimodal Acoustic Word Embeddings at the University of Copenhagen, Denmark.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Mar 2019]</strong></td>
         <td>I will be giving a talk about our work on Multimodal Acoustic Word Embeddings at the 6th Amazon Graduate Student Symposium in Seattle. <a href="files/amazon-gradsymposium.pdf">Slides here!</a>
         </td>
