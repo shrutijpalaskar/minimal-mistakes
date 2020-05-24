@@ -39,7 +39,7 @@ Anirudh Mani\*, **Shruti Palaskar**\*, Nimshi Venkat Meripo, Sandeep Konam and F
 
 1. [Multimodal Abstractive Summarization for How2 Videos](https://www.aclweb.org/anthology/P19-1659/)  
 **Shruti Palaskar**, Jindrich Libovický, Spandana Gella, Florian Metze  
-*Association for Computational Linguistics (ACL), 2019*
+*Association for Computational Linguistics (ACL), 2019*  
 [<button type="button" class="btn btn-info">Paper</button>](https://www.aclweb.org/anthology/P19-1659/)  
 
 
