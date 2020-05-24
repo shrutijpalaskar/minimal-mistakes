@@ -10,7 +10,7 @@ Email:
 spalaska [at] cs [dot] cmu [dot] edu  
 
 Address:  
-407 South Craig Street,  
-Room 210,  
+GHC 6601,  
+5000 Forbes Ave,  
 Carnegie Mellon University,  
 Pittsburgh, PA - 15213.  
