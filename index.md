@@ -63,12 +63,8 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>The <a href="https://github.com/srvk/how2-dataset">How2 dataset</a> of open-domain instructional videos has been released! Check it out!
+        <td>The <a href="https://github.com/srvk/how2-dataset">How2 dataset</a> of open-domain instructional videos has been released! Check it out for different multimodal modeling tasks!
         </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Nov 2018]</strong></td>
-        <td>Our paper on Multimodal Abstractive Summarization has been accepted at the <a href="https://nips2018vigil.github.io">NeurIPS 2018 ViGIL workshop</a> for <b>Spotlight</b> presentation!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2018]</strong></td>
@@ -79,15 +75,11 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
         <td> <b>PhD student panelist</b> at the <a href="https://sites.google.com/view/yfrsw2018/home">Young Female Researchers in Speech Workshop</a> at Interspeech 2018</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Sep 2018]</strong></td>
-        <td>Our paper on <a href="https://arxiv.org/abs/1807.09597">Acoustic-to-Word Speech Recognition</a> is accepted at <a href="http://www.slt2018.org">SLT 2018</a></td>
-    </tr>
-    <tr>
         <td valign="top"><strong>[Jul 2018]</strong></td>
         <td>Received the 2018-2019 <a href="https://www.cs.cmu.edu/cmlh-fellows_2018">Center for Machine Learning and Health</a> <b>PhD Fellowship</b>. Thank you CMLH!</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2016]</strong></td>
-        <td>Received the CMU LTI <b>Graduate Research Fellowship</b> for acamedic years 2016-2018</td>
+        <td>Received the CMU LTI <b>Graduate Research Fellowship</b> for 2016-2018</td>
     </tr>
 </table>
