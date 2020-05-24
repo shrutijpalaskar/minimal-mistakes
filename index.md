@@ -10,7 +10,7 @@ Hi!
 
 I am a PhD student at the [Language Technologies Institute](http://www.lti.cs.cmu.edu/) of the School of Computer Science at [Carnegie Mellon University](http://www.cmu.edu/). My research interests lie in the areas of multimodal machine learning, speech recognition and natural language processing. I am fortunate to be advised by [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html) and [Prof. Alan W. Black](http://www.cs.cmu.edu/~awb/).  
 
-My research is supported by fellowships from [Facebook (2019-2021)](https://research.fb.com/blog/2019/01/announcing-the-2019-facebook-fellows-and-emerging-scholars/), [Center for Machine Learning and Health (2018)](https://www.cs.cmu.edu/cmlh-fellows_2018), and CMU (2016-2018).
+My research is supported by fellowships from [Facebook (2019-2021)](https://research.fb.com/blog/2019/01/announcing-the-2019-facebook-fellows-and-emerging-scholars/), [Center for Machine Learning and Health (2018-2019)](https://www.cs.cmu.edu/cmlh-fellows_2018), and CMU (2016-2018).
 
 I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/speech-and-audio), [Abridge AI (Summer '19)](https://www.abridge.com), and [Johns Hopkins Summer Workshops (Summer '17 and '18)]((https://www.clsp.jhu.edu/workshops/18-workshop/)). Prior to starting my PhD, I received my master's degree in Language Technologies from LTI, CMU in 2018 and bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. 
  
