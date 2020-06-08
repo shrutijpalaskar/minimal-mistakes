@@ -12,7 +12,7 @@ I am a PhD student at the [Language Technologies Institute](http://www.lti.cs.cm
 
 My research is supported by fellowships from [Facebook (2019-2021)](https://research.fb.com/blog/2019/01/announcing-the-2019-facebook-fellows-and-emerging-scholars/), [Center for Machine Learning and Health (2018-2019)](https://www.cs.cmu.edu/cmlh-fellows_2018), and CMU (2016-2018).
 
-I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/speech-and-audio), [Abridge AI (Summer '19)](https://www.abridge.com), and [Johns Hopkins Summer Workshops (Summer '17 and '18)]((https://www.clsp.jhu.edu/workshops/18-workshop/)). Prior to starting my PhD, I received my master's degree in Language Technologies from LTI, CMU in 2018 and bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](www.pict.edu) in 2016. 
+I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/speech-and-audio), [Abridge AI (Summer '19)](https://www.abridge.com), and [Johns Hopkins Summer Workshops (Summer '17 and '18)](https://www.clsp.jhu.edu/workshops/18-workshop/). Prior to starting my PhD, I received my master's degree in Language Technologies from LTI, CMU in 2018 and bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](https://pict.edu) in 2016. 
  
 
 ----
