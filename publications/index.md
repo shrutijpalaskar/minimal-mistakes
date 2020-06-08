@@ -11,8 +11,8 @@ comments: false
 
 **2020**
 
-1. Learning Semantic Concepts from Multimodal Data  
-**Shruti Palaskar**, Spandana Gella, Ruslan Salakhutdinov, Alan W. Black, Florian Metze  
+1. Hierarchical Semantic Concepts for Multimodal Video Understanding  
+**Shruti Palaskar**, Ruslan Salakhutdinov, Alan W. Black, Florian Metze  
 *Under Review*  
 
 1. Transfer Learning for Multimodal Dialog  
