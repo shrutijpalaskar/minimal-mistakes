@@ -33,7 +33,7 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     </tr>
     <tr>
         <td valign="top"><strong>[May 2020]</strong></td>
-        <td>Excited to join Facebook AI as an intern.</a>
+        <td>Excited to join Facebook AI as an intern.
         </td>
     </tr>
     <tr>
