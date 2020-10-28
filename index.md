@@ -22,6 +22,21 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     <col width="18%">
     <col width="82%">
     <tr>
+        <td valign="top"><strong>[Oct 2020]</strong></td>
+        <td>Leading the SCS, CMU effort for PhD Applicant Mentoring. PhD applicants for 2021, check out:  <a href="https://www.cs.cmu.edu/gasp">https://www.cs.cmu.edu/gasp</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Oct 2020]</strong></td>
+        <td>Selected as a <a href="https://www2.eecs.berkeley.edu/risingstars/2020/participants/palaskar.shtml">Rising Star in EECS 2020, at UC Berkeley.</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2020]</strong></td>
+        <td>Excited to join Facebook AI as an intern.</a>
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
         <td>Gave a lecture on Multimodality in 11-4/611 NLP at LTI, CMU. <a href="files/[11-4_611] Multimodality-compressed.pdf">[slides]</a>
         </td>
