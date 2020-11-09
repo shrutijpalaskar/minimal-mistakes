@@ -28,7 +28,7 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
-        <td>Selected as a <a href="https://www2.eecs.berkeley.edu/risingstars/2020/participants/palaskar.shtml">Rising Star in EECS 2020, at UC Berkeley.</a>
+        <td>Invited to participate in the <a href="https://www2.eecs.berkeley.edu/risingstars/2020/participants/palaskar.shtml">Rising Star in EECS Workshop at UC Berkeley.</a>
         </td>
     </tr>
     <tr>
