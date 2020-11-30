@@ -51,5 +51,5 @@ Class project for Probabilistic Graphical Models (10-708 Spring 2017)
 
 ### Undergrad Internships
 
-During my undergrad, I was fortunate to work on computer vision problems with [Dr. Hyunsung Park](https://sites.google.com/site/hyunsung/) and [Prof. Ramesh Raskar](http://web.media.mit.edu/~raskar/) at the MIT Media Lab mentored [REDX Innovation Labs](http://redx.io), on machine translation with [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) at [IIT Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshad Saykhedkar](https://www.linkedin.com/in/harshadss/?originalSubdomain=in) from a startup, [Sokrati Technologies](https://sokrati.com).
+During my undergrad, I was fortunate to work on computer vision problems with [Dr. Hyunsung Park](https://sites.google.com/site/hyunsung/) and [Prof. Ramesh Raskar](http://web.media.mit.edu/~raskar/) at the MIT Media Lab mentored [REDX Innovation Labs](http://redx.io), on machine translation with [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) at [IIT Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshad Saykhedkar](https://www.linkedin.com/in/harshadss/?originalSubdomain=in) at a digital marketing startup, [Sokrati Technologies](https://sokrati.com).
 
