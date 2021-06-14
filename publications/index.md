@@ -10,7 +10,7 @@ comments: false
 
 **2021**
 1. Multimodal Speech Summarization through Semantic Concept Learning  
-**Shruti Palaskar**, Ruslan Salakhutdinov, Alan W. Black, Florian Metze    
+**Shruti Palaskar**, Ruslan Salakhutdinov, Alan W Black, Florian Metze    
 *INTERSPEECH 2021*  
 
 1. [How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language](https://arxiv.org/pdf/2008.08143.pdf)  
@@ -36,7 +36,7 @@ Lucia Specia, Raman Arora, Loic Barrault, Ozan Caglayan, Amanda Duarte, Desmond 
 [<button type="button" class="btn btn-info">Paper</button>](https://loicbarrault.github.io/papers/specia_jstsp2020.pdf)
 
 1. [Speech Technology for Unwritten Languages](/files/scharenborg20taslp.pdf)  
-Scharenborg, Besacier, Black, Hasegawa-Johnson, Metze, Neubig, Stüker, Godard, Müller, Ondel, **Palaskar**, Arthur, Ciannella, Du, Larsen, Merkx, Riad, Wang, Dupoux  
+Odette Scharenborg, Laurent Besacier, Alan W Black, Mark Hasegawa-Johnson, Florian Metze, Graham Neubig, Sebastian Stüker, Pierre Godard, Markus Müller, Lucas Ondel, **Shruti Palaskar**, Philip Arthur, Francesco Ciannella, Mingxing Du, Erin Larsen, Danny Merkx, Rachid Riad, Liming Wang, Emmanuel Dupoux  
 *IEEE Transactions for Audio, Speech and Language*  
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8998182)
 
