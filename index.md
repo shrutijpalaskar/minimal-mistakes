@@ -21,7 +21,6 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
-    
     <tr>
         <td valign="top"><strong>[Jun 2021]</strong></td>
         <td>New paper on <strong>Multimodal Speech Summarization through Semantic Concept Learning</strong> is accepted at INTERSPEECH 2021. 
@@ -32,15 +31,14 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
         <td>I will be interning at the Allen Institute for AI (AI2) this summer on Multimodal Rationalization with Ana Marasović.
         </td>
     </tr>
-    
     <tr>
         <td valign="top"><strong>[Apr 2021]</strong></td>
-        <td>I successfully proposed my thesis titled <strong>Multimodal Learning from Videos:</strong> Exploring Models and Task Complexities. 
+        <td>I successfully proposed my thesis titled <strong>Multimodal Learning from Videos:</strong> Exploring Models and Task Complexities. <a href="files/thesis_proposal.pdf">[PDF]</a>  <a href="files/thesis_proposal_slides.ptdf">[Slides]</a>  
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2021]</strong></td>
-        <td>New paper on <strong>How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language is accepted at CVPR 2021.
+        <td>New paper on <strong>How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language</strong> is accepted at CVPR 2021.
         </td>
     </tr>
      <tr>
