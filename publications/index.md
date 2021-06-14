@@ -45,9 +45,9 @@ Anirudh Mani\*, **Shruti Palaskar**\*, Nimshi Venkat Meripo, Sandeep Konam and F
 *International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020*  
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2003.07692.pdf)
 
-1. [Towards understanding ASR error correction for medical conversations](https://www.aclweb.org/anthology/2020.nlpmc-1.2/) 
-Anirudh Mani, **Shruti Palaskar** and Sandeep Konam 
-*First Workshop on Natural Language Processing for Medical Conversations, ACL 2020*
+1. [Towards understanding ASR error correction for medical conversations](https://www.aclweb.org/anthology/2020.nlpmc-1.2/)  
+Anirudh Mani, **Shruti Palaskar** and Sandeep Konam  
+*First Workshop on Natural Language Processing for Medical Conversations, ACL 2020*  
 [<button type="button" class="btn btn-info">Paper</button>](https://www.aclweb.org/anthology/2020.nlpmc-1.2/)
 
 
