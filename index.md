@@ -8,11 +8,11 @@ comments: false
 
 Hi!
 
-I am a PhD student at the [Language Technologies Institute](http://www.lti.cs.cmu.edu/) of the School of Computer Science at [Carnegie Mellon University](http://www.cmu.edu/). My research interests lie in the areas of multimodal machine learning, speech recognition and natural language processing. I am fortunate to be advised by [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html) and [Prof. Alan W. Black](http://www.cs.cmu.edu/~awb/).  
+I am a PhD student at the [Language Technologies Institute](http://www.lti.cs.cmu.edu/) of the School of Computer Science at [Carnegie Mellon University](http://www.cmu.edu/). My research interests lie in the areas of multimodal machine learning, speech recognition and natural language processing. I am fortunate to be advised by [Prof. Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html) and [Prof. Alan W Black](http://www.cs.cmu.edu/~awb/). I also work closely with [Prof. Yonatan Bisk](https://yonatanbisk.com).
 
 My research is supported by fellowships from [Facebook (2019-2021)](https://research.fb.com/blog/2019/01/announcing-the-2019-facebook-fellows-and-emerging-scholars/), [Center for Machine Learning and Health (2018-2019)](https://www.cs.cmu.edu/cmlh-fellows_2018), and CMU (2016-2018).
 
-I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/speech-and-audio), [Abridge AI (Summer '19)](https://www.abridge.com), and [Johns Hopkins Summer Workshops (Summer '17 and '18)](https://www.clsp.jhu.edu/workshops/18-workshop/). Prior to starting my PhD, I received my master's degree in Language Technologies from LTI, CMU in 2018 and bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](https://pict.edu) in 2016. 
+I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/speech-and-audio), [Abridge AI (Summer '19)](https://www.abridge.com), and [Johns Hopkins Summer Workshops (Summer '17 and '18)](https://www.clsp.jhu.edu/workshops/18-workshop/). Prior to starting my PhD, I received my Masters degree in Language Technologies from LTI, CMU in 2018 and Bachelors degree in Computer Engineering from [Pune Institute of Computer Technology](https://pict.edu) in 2016. 
  
 
 ----
@@ -21,8 +21,30 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
+    
     <tr>
-        <td valign="top"><strong>[Oct 2020]</strong></td>
+        <td valign="top"><strong>[Jun 2021]</strong></td>
+        <td>New paper on <strong>Multimodal Speech Summarization through Semantic Concept Learning</strong> is accepted at INTERSPEECH 2021. 
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2021]</strong></td>
+        <td>I will be interning at the Allen Institute for AI (AI2) this summer on Multimodal Rationalization with Ana Marasović.
+        </td>
+    </tr>
+    
+    <tr>
+        <td valign="top"><strong>[Apr 2021]</strong></td>
+        <td>I successfully proposed my thesis titled <strong>Multimodal Learning from Videos:</strong> Exploring Models and Task Complexities. 
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Mar 2021]</strong></td>
+        <td>New paper on <strong>How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language is accepted at CVPR 2021.
+        </td>
+    </tr>
+     <tr>
+        <td valign="top"><strong>[Nov 2020]</strong></td>
         <td>Leading the SCS, CMU effort for PhD Applicant Mentoring. PhD applicants for 2021, check out:  <a href="https://www.cs.cmu.edu/gasp">https://www.cs.cmu.edu/gasp</a>
         </td>
     </tr>
