@@ -33,7 +33,7 @@ I have interned at [Facebook AI (Summer '20)](https://ai.facebook.com/research/s
     </tr>
     <tr>
         <td valign="top"><strong>[Apr 2021]</strong></td>
-        <td>I successfully proposed my thesis titled <strong>Multimodal Learning from Videos:</strong> Exploring Models and Task Complexities. <a href="files/thesis_proposal.pdf">[PDF]</a>  <a href="files/thesis_proposal_slides.ptdf">[Slides]</a>  
+        <td>I successfully proposed my thesis titled <strong>Multimodal Learning from Videos:</strong> Exploring Models and Task Complexities. <a href="files/thesis_proposal.pdf">[PDF]</a>  <a href="files/thesis_proposal_slides.pdf">[Slides]</a>  
         </td>
     </tr>
     <tr>
