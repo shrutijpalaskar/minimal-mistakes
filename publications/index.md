@@ -9,16 +9,17 @@ comments: false
 [Google Scholar Page](https://scholar.google.com/citations?user=7bun32IAAAAJ&hl=en&oi=ao)
 
 **2021**
-1. Multimodal Speech Summarization through Semantic Concept Learning
-**Shruti Palaskar**, Ruslan Salakhutdinov, Alan W. Black, Florian Metze  
+1. Multimodal Speech Summarization through Semantic Concept Learning  
+**Shruti Palaskar**, Ruslan Salakhutdinov, Alan W. Black, Florian Metze    
 *INTERSPEECH 2021*  
 
-1. How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language
-Amanda Duarte, **Shruti Palaskar**, Lucas Ventura, Deepti Ghadiyaram, Kenneth DeHaan, Florian Metze, Jordi Torres, and Xavier Giró-i-Nieto
-*CVPR 2021*
+1. [How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language](https://arxiv.org/pdf/2008.08143.pdf)  
+Amanda Duarte, **Shruti Palaskar**, Lucas Ventura, Deepti Ghadiyaram, Kenneth DeHaan, Florian Metze, Jordi Torres, and Xavier Giró-i-Nieto  
+*CVPR 2021*  
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2008.08143.pdf)
 
-1. Hierarchical Learning for Multimodal Language Generation
-**Shruti Palaskar**, Florian Metze, Yonatan Bisk, Alan W Black
+1. Hierarchical Learning for Multimodal Language Generation  
+**Shruti Palaskar**, Florian Metze, Yonatan Bisk, Alan W Black  
 *In preparation*
 
 
