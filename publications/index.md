@@ -25,7 +25,7 @@ Amanda Duarte, **Shruti Palaskar**, Lucas Ventura, Deepti Ghadiyaram, Kenneth De
 
 **2020**
 
-1. [Transfer Learning for Multimodal Dialog](https://www.sciencedirect.com/science/article/pii/S0885230820300267)
+1. [Transfer Learning for Multimodal Dialog](https://www.sciencedirect.com/science/article/pii/S0885230820300267)  
 **Shruti Palaskar**\*, Ramon Sanabria\*, Florian Metze  
 *Elsevier Computer Speech and Language*  
 [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0885230820300267)
