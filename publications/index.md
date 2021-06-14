@@ -30,7 +30,7 @@ Amanda Duarte, **Shruti Palaskar**, Lucas Ventura, Deepti Ghadiyaram, Kenneth De
 *Elsevier Computer Speech and Language*  
 [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0885230820300267)
 
-1. [Grounded Sequence-to-Sequence Transduction](https://loicbarrault.github.io/papers/specia_jstsp2020.pdf)
+1. [Grounded Sequence-to-Sequence Transduction](https://loicbarrault.github.io/papers/specia_jstsp2020.pdf)  
 Lucia Specia, Raman Arora, Loic Barrault, Ozan Caglayan, Amanda Duarte, Desmond Elliott, Spandana Gella, Nils Holzenberger, Chiraag Lala, Sun Jae Lee, Jindrich Libovick\' y, Pranava Madhyastha, Florian Metze, Karl Mulligan, Alissa Ostapenko, **Shruti Palaskar**, Ramon Sanabria, Josiah Wang  
 *IEEE Journal for Select Topics in Signal Processing*
 [<button type="button" class="btn btn-info">Paper</button>](https://loicbarrault.github.io/papers/specia_jstsp2020.pdf)
