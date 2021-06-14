@@ -12,19 +12,23 @@ I am interested in enabling machines to learn from multiple modalities of data l
 
 
 * **Multimodal Video Understanding**  
-Exploring video summarization and understanding to identify differences and similarities in two similar videos. Generalizing abstractive summarization for open-domain videos using the [How2 dataset](https://github.com/srvk/how2-dataset).
+Exploring video summarization, rationalization and understanding multimodally in videos. The [How2 dataset](https://github.com/srvk/how2-dataset) largely facilitates this work.
 
 
 * **End-to-End and Multimodal Speech Recognition**  
-Building robust direct acoustic-to-word models for audio-only and audio-visual data
+Building robust direct acoustic-to-word models for audio-only and audio-visual data.
 
   
 
 ### Summer Internships
 
+* **[Allen Institute for AI (AI2)](https://allenai.org)**  
+Research Intern, Summer 2021  
+Interning with Ana Marasović in the AllenNLP team on Multimodal Rationalization. More soon!
+
 * **[Facebook AI](https://ai.facebook.com/research/speech-and-audio)**  
 Research Intern, Summer 2020  
-Interning with the Speech and Audio team on multimodal ASR models. More soon!
+Interning with the Speech and Audio team on multimodal ASR models.
 
 
 * **[Abridge AI](https://www.abridge.com)**  
