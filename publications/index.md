@@ -9,47 +9,47 @@ comments: false
 [Google Scholar Page](https://scholar.google.com/citations?user=7bun32IAAAAJ&hl=en&oi=ao)
 
 **2021**
+
 1. Multimodal Speech Summarization through Semantic Concept Learning  
 **Shruti Palaskar**, Ruslan Salakhutdinov, Alan W Black, Florian Metze    
-*INTERSPEECH 2021*  
+*The 22nd Annual Conference of the International Speech Communication Association (INTERSPEECH), 2021*  
 
 1. [How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language](https://arxiv.org/pdf/2008.08143.pdf)  
-Amanda Duarte, **Shruti Palaskar**, Lucas Ventura, Deepti Ghadiyaram, Kenneth DeHaan, Florian Metze, Jordi Torres, and Xavier Giró-i-Nieto  
-*CVPR 2021*  
+Amanda Duarte, **Shruti Palaskar**, Lucas Ventura, Deepti Ghadiyaram, Kenneth DeHaan, Florian Metze, Jordi Torres, Xavier Giró-i-Nieto  
+*Computer Vision and Pattern Recognition (CVPR), 2021*  
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2008.08143.pdf)
 
 1. Hierarchical Learning for Multimodal Language Generation  
 **Shruti Palaskar**, Florian Metze, Yonatan Bisk, Alan W Black  
 *In preparation*
 
-
 **2020**
 
 1. [Transfer Learning for Multimodal Dialog](https://www.sciencedirect.com/science/article/pii/S0885230820300267)  
 **Shruti Palaskar**\*, Ramon Sanabria\*, Florian Metze  
-*Elsevier Computer Speech and Language*  
+*Elsevier Computer Speech and Language (CS&L)*  
 [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0885230820300267)
 
 1. [Grounded Sequence-to-Sequence Transduction](https://loicbarrault.github.io/papers/specia_jstsp2020.pdf)  
 Lucia Specia, Raman Arora, Loic Barrault, Ozan Caglayan, Amanda Duarte, Desmond Elliott, Spandana Gella, Nils Holzenberger, Chiraag Lala, Sun Jae Lee, Jindrich Libovick\' y, Pranava Madhyastha, Florian Metze, Karl Mulligan, Alissa Ostapenko, **Shruti Palaskar**, Ramon Sanabria, Josiah Wang  
-*IEEE Journal for Select Topics in Signal Processing*
+*IEEE Journal for Select Topics in Signal Processing (JSTSP)*  
 [<button type="button" class="btn btn-info">Paper</button>](https://loicbarrault.github.io/papers/specia_jstsp2020.pdf)
 
 1. [Speech Technology for Unwritten Languages](/files/scharenborg20taslp.pdf)  
 Odette Scharenborg, Laurent Besacier, Alan W Black, Mark Hasegawa-Johnson, Florian Metze, Graham Neubig, Sebastian Stüker, Pierre Godard, Markus Müller, Lucas Ondel, **Shruti Palaskar**, Philip Arthur, Francesco Ciannella, Mingxing Du, Erin Larsen, Danny Merkx, Rachid Riad, Liming Wang, Emmanuel Dupoux  
-*IEEE Transactions for Audio, Speech and Language*  
+*IEEE Transactions for Audio, Speech and Language Processing (TASLP)*  
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8998182)
 
 1. [ASR Error Correction and Domain Adaptation using Machine Translation](https://arxiv.org/pdf/2003.07692.pdf)  
-Anirudh Mani\*, **Shruti Palaskar**\*, Nimshi Venkat Meripo, Sandeep Konam and Florian Metze  
+Anirudh Mani\*, **Shruti Palaskar**\*, Nimshi Venkat Meripo, Sandeep Konam, Florian Metze  
+**Oral Presentation**
 *International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020*  
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2003.07692.pdf)
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2003.07692.pdf)  
 
 1. [Towards understanding ASR error correction for medical conversations](https://www.aclweb.org/anthology/2020.nlpmc-1.2/)  
-Anirudh Mani, **Shruti Palaskar** and Sandeep Konam  
+Anirudh Mani, **Shruti Palaskar**, Sandeep Konam  
 *First Workshop on Natural Language Processing for Medical Conversations, ACL 2020*  
 [<button type="button" class="btn btn-info">Paper</button>](https://www.aclweb.org/anthology/2020.nlpmc-1.2/)
-
 
 **2019**
 
